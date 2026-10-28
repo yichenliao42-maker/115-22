@@ -1,0 +1,2 @@
+將 index.html 上傳至 GitHub Pages 儲存庫根目錄，覆蓋原檔案即可。
+新版簡章：https://drive.google.com/file/d/1vTg35kylYeEsvUahMopgqpwD7P06LPxx/view?usp=drive_link
